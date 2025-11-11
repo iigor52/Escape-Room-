@@ -28,11 +28,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -69,11 +69,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -110,11 +110,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -151,11 +151,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -192,11 +192,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -233,11 +233,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -274,11 +274,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2\u20133 times",
-                        "B) 5\u201310 times",
-                        "C) 10\u201315 times",
-                        "D) 15\u201325 times",
-                        "E) 20\u201330 times"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
@@ -464,7 +464,7 @@ def add_penalty_cooldown(seconds: int):
         new_total = current_remaining + seconds
         st.session_state.penalty_end_time = now + timedelta(seconds=new_total)
 
-    # signal input reset
+    # signal input reset (ostavljamo, ali ga više ne koristimo za brisanje)
     st.session_state.penalty_triggered = True
 
 
@@ -595,7 +595,7 @@ def main():
     st.subheader(f"👥 {group_name}")
 
     if st.session_state.total_penalties > 0:
-        st.metric("⚠️ Total penalties", f"+{st.session_state.total_penalties}s")
+        st.metric(⚠️ Total penalties", f"+{st.session_state.total_penalties}s")
 
     # Quiz body
     if not st.session_state.quiz_completed:
@@ -620,31 +620,32 @@ def main():
         # Verification
         st.markdown("### 🎯 Verification and moving to next station")
 
-col1, col2, col3 = st.columns([2, 1, 1])
+        col1, col2, col3 = st.columns([2, 1, 1])
 
-with col1:
-    if penalty_active:
-        # NE brišemo više – samo pokažemo zadnji pokušaj zaključan
-        input_value = st.session_state.get("last_code_attempt", "")
-        verification_code = st.text_input(
-            "🔑 Code:",
-            value=input_value,
-            disabled=True,
-            key="code_input",
-            help="🚫 Blocked due to penalty"
-        )
-        # trigger više ne mora ništa raditi
-        st.session_state.penalty_triggered = False
-    else:
-        verification_code = st.text_input(
-            "🔑 Enter code:",
-            placeholder="Three letters (e.g. ABC)",
-            max_chars=3,
-            key="code_input"
-        )
+        # ---- OVDJE JE IZMJENA ----
+        with col1:
+            if penalty_active:
+                input_value = st.session_state.get("last_code_attempt", "")
+                verification_code = st.text_input(
+                    "🔑 Code:",
+                    value=input_value,
+                    disabled=True,
+                    key="code_input",
+                    help="🚫 Blocked due to penalty"
+                )
+                # više ga ne brišemo
+                st.session_state.penalty_triggered = False
+            else:
+                verification_code = st.text_input(
+                    "🔑 Enter code:",
+                    placeholder="Three letters (e.g. ABC)",
+                    max_chars=3,
+                    key="code_input"
+                )
+        # ---- KRAJ IZMJENE ----
 
-with col2:
-    # FIXED TIMER - show countdown directly in this column
+        with col2:
+            # FIXED TIMER - show countdown directly in this column
             if penalty_active:
                 st.markdown(f'<div class="timer-display">⛔ {penalty_remaining}s</div>', unsafe_allow_html=True)
                 progress = 1 - (penalty_remaining / 60) if penalty_remaining <= 60 else 0
@@ -655,6 +656,7 @@ with col2:
                 st.button("✅ Verify code", disabled=True)
             else:
                 if st.button("✅ Verify code", use_container_width=True):
+                    # spremi zadnji pokušaj
                     st.session_state.last_code_attempt = verification_code
 
                     if verification_code.upper() == correct_code:
