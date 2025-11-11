@@ -17,44 +17,44 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 1,
-    "station_name": "Immunoglobulin Escape Room - Station 1",
+    "station_name": "Hemophilia Escape Room - Station 1",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 2,
-            "next_code": "LC567",
+            "next_code": "TR234",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -63,39 +63,39 @@ STATION_DATA = {
         "group2": {
             "name": "Group 2",
             "next_station": None,
-            "next_code": "IG2FINAL",
+            "next_code": "HEM751F",
             "is_final": True,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -104,39 +104,39 @@ STATION_DATA = {
         "group3": {
             "name": "Group 3",
             "next_station": 2,
-            "next_code": "IH123",
+            "next_code": "GH890",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -145,39 +145,39 @@ STATION_DATA = {
         "group4": {
             "name": "Group 4",
             "next_station": 2,
-            "next_code": "GF456",
+            "next_code": "JK123",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -186,39 +186,39 @@ STATION_DATA = {
         "group5": {
             "name": "Group 5",
             "next_station": 2,
-            "next_code": "ED789",
+            "next_code": "CV456",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -227,39 +227,39 @@ STATION_DATA = {
         "group6": {
             "name": "Group 6",
             "next_station": 2,
-            "next_code": "CB012",
+            "next_code": "BN789",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -268,39 +268,39 @@ STATION_DATA = {
         "group7": {
             "name": "Group 7",
             "next_station": 2,
-            "next_code": "BA345",
+            "next_code": "XZ012",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in PID patients?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
-                    "correct": "B"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which changes in residual IgG level could be seen after switch from IVIG to SCIG in the same dosage in SID patients?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) No changes",
-                        "B) IgG level is a bit higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 },
                 {
-                    "question": "When IG therapy should be initiated in chronic lymphocytic leukaemia according to European Consensus 2021?",
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) Before any infection if IgG level is low",
-                        "B) After first severe infection",
-                        "C) After second severe infection",
-                        "D) After one year of frequent or persisting infections",
-                        "E) After first infection regardless severity"
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -308,13 +308,13 @@ STATION_DATA = {
         }
     },
     "access_codes": {
-        "XZ456": "group1",
-        "YW789": "group2",
-        "VU012": "group3",
-        "TS345": "group4",
-        "RQ678": "group5",
-        "PO901": "group6",
-        "NM234": "group7"
+        "HF123": "group1",
+        "VB456": "group2",
+        "QR789": "group3",
+        "ZX012": "group4",
+        "MN345": "group5",
+        "KL678": "group6",
+        "PW901": "group7"
     }
 }
 

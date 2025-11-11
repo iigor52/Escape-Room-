@@ -17,44 +17,44 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 6,
-    "station_name": "Immunoglobulin Escape Room - Station 6",
+    "station_name": "Hemophilia Escape Room - Station 6",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 7,
-            "next_code": "XW012",
+            "next_code": "QW789",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -63,39 +63,39 @@ STATION_DATA = {
         "group2": {
             "name": "Group 2",
             "next_station": 7,
-            "next_code": "VU345",
+            "next_code": "ER012",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -104,39 +104,39 @@ STATION_DATA = {
         "group3": {
             "name": "Group 3",
             "next_station": 7,
-            "next_code": "TS678",
+            "next_code": "TY345",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -145,39 +145,39 @@ STATION_DATA = {
         "group4": {
             "name": "Group 4",
             "next_station": 7,
-            "next_code": "RQ901",
+            "next_code": "UI678",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -186,39 +186,39 @@ STATION_DATA = {
         "group5": {
             "name": "Group 5",
             "next_station": 7,
-            "next_code": "PO234",
+            "next_code": "OP901",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -227,39 +227,39 @@ STATION_DATA = {
         "group6": {
             "name": "Group 6",
             "next_station": 7,
-            "next_code": "NM567",
+            "next_code": "AS234",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -268,39 +268,39 @@ STATION_DATA = {
         "group7": {
             "name": "Group 7",
             "next_station": None,
-            "next_code": "IG7FINAL",
+            "next_code": "HEM276F",
             "is_final": True,
             "questions": [
                 {
-                    "question": "Which infusion frequency is possible for cutaquig?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Once weekly only",
-                        "B) Every other day and once weekly",
-                        "C) From every day to once weekly",
-                        "D) From every day to every two weeks",
-                        "E) From every day to once monthly"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
-                    "correct": "D"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which infusion regimen of cutaquig provides most physiologic concentration of IgG?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Every day",
-                        "B) Every other day",
-                        "C) Every week",
-                        "D) Every two weeks",
-                        "E) No difference between regimens"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
                 },
                 {
-                    "question": "How many patients completed recent study in which cutaquig was infused by Rapid Push?",
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
                     "options": [
-                        "A) 50",
-                        "B) 100",
-                        "C) 127",
-                        "D) 150",
-                        "E) 200"
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
                     ],
                     "correct": "E"
                 }
@@ -308,13 +308,13 @@ STATION_DATA = {
         }
     },
     "access_codes": {
-        "LK901": "group1",
-        "JI234": "group2",
-        "HG567": "group3",
-        "FE890": "group4",
-        "DC123": "group5",
-        "BA456": "group6",
-        "ZY789": "group7"
+        "MP678": "group1",
+        "NB901": "group2",
+        "VC234": "group3",
+        "XZ567": "group4",
+        "LK890": "group5",
+        "JH123": "group6",
+        "GF456": "group7"
     }
 }
 

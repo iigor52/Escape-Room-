@@ -17,304 +17,304 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 3,
-    "station_name": "Immunoglobulin Escape Room - Station 3",
+    "station_name": "Hemophilia Escape Room - Station 3",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 4,
-            "next_code": "ML789",
+            "next_code": "ZC456",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group2": {
             "name": "Group 2",
             "next_station": 4,
-            "next_code": "KJ012",
+            "next_code": "VB789",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group3": {
             "name": "Group 3",
             "next_station": 4,
-            "next_code": "IH345",
+            "next_code": "NM012",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group4": {
             "name": "Group 4",
             "next_station": None,
-            "next_code": "IG4FINAL",
+            "next_code": "HEM642F",
             "is_final": True,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group5": {
             "name": "Group 5",
             "next_station": 4,
-            "next_code": "ED901",
+            "next_code": "ER678",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group6": {
             "name": "Group 6",
             "next_station": 4,
-            "next_code": "CB234",
+            "next_code": "TY901",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         },
         "group7": {
             "name": "Group 7",
             "next_station": 4,
-            "next_code": "BA567",
+            "next_code": "UI234",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which pathological condition is common for facilitated SCIG 10%, but not for other SCIGs?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Severe skin impairment due to high volume of fluid",
-                        "B) Discomfort and tendency to more frequent infections few days before the next infusion",
-                        "C) Aseptic meningitis",
-                        "D) Kidney failure",
-                        "E) High blood pressure"
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
-                    "correct": "B"
+                    "correct": "D"
                 },
                 {
-                    "question": "How facilitated SCIG 10% is influencing on IgG level after the switch from IVIG?",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Clinically important difference is not shown",
-                        "B) IgG level is 10%–20% higher after the switch",
-                        "C) IgG level is 50% higher after the switch",
-                        "D) IgG level is a bit smaller after the switch",
-                        "E) IgG level is a 20% smaller after the switch"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
                 },
                 {
-                    "question": "Which group of patients is biggest IG products consumer among PID?",
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
                     "options": [
-                        "A) XLA (Brutton's disease) in pediatric",
-                        "B) CVID in adults",
-                        "C) Hyper M syndromes + SCID (all ages)",
-                        "D) Hyper E syndromes (all ages)",
-                        "E) Complement deficiencies"
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
                     ],
-                    "correct": "B"
+                    "correct": "E"
                 }
             ]
         }
     },
     "access_codes": {
-        "ZY678": "group1",
-        "XW901": "group2",
-        "VU234": "group3",
-        "TS567": "group4",
-        "RQ890": "group5",
-        "PO123": "group6",
-        "NM456": "group7"
+        "WQ345": "group1",
+        "ER678": "group2",
+        "TY901": "group3",
+        "UI234": "group4",
+        "OP567": "group5",
+        "AS890": "group6",
+        "FG123": "group7"
     }
 }
 

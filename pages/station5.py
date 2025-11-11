@@ -17,304 +17,304 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 5,
-    "station_name": "Immunoglobulin Escape Room - Station 5",
+    "station_name": "Hemophilia Escape Room - Station 5",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 6,
-            "next_code": "LK901",
+            "next_code": "MP678",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group2": {
             "name": "Group 2",
             "next_station": 6,
-            "next_code": "JI234",
+            "next_code": "NB901",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group3": {
             "name": "Group 3",
             "next_station": 6,
-            "next_code": "HG567",
+            "next_code": "VC234",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group4": {
             "name": "Group 4",
             "next_station": 6,
-            "next_code": "FE890",
+            "next_code": "XZ567",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group5": {
             "name": "Group 5",
             "next_station": 6,
-            "next_code": "DC123",
+            "next_code": "LK890",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group6": {
             "name": "Group 6",
             "next_station": None,
-            "next_code": "IG6FINAL",
+            "next_code": "HEM903F",
             "is_final": True,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
         "group7": {
             "name": "Group 7",
             "next_station": 6,
-            "next_code": "ZY789",
+            "next_code": "GF456",
             "is_final": False,
             "questions": [
                 {
-                    "question": "In which conditions SID is more frequent in 40–50 years old age group?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Gastric and pancreatic cancer",
-                        "E) Chronic renal failure"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 60–80 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Lung and colorectal cancer",
-                        "E) Alzheimer disease"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "In which conditions SID is more frequent in 0–18 years old age group?",
-                    "options": [
-                        "A) Chronic lymphocytic leukaemia and multiple myeloma",
-                        "B) Acute lymphoblastic leukaemia",
-                        "C) Rheumatology and Non-Hodgkin lymphoma",
-                        "D) Different types of sarcoma",
-                        "E) Chronic renal failure"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         }
     },
     "access_codes": {
-        "ZX890": "group1",
-        "YW123": "group2",
-        "VU456": "group3",
-        "TS789": "group4",
-        "RQ012": "group5",
-        "PO345": "group6",
-        "NM678": "group7"
+        "LK567": "group1",
+        "JH890": "group2",
+        "GF123": "group3",
+        "DS456": "group4",
+        "AQ789": "group5",
+        "WE012": "group6",
+        "RT345": "group7"
     }
 }
 

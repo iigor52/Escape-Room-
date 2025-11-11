@@ -17,304 +17,304 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 4,
-    "station_name": "Immunoglobulin Escape Room - Station 4",
+    "station_name": "Hemophilia Escape Room - Station 4",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 5,
-            "next_code": "ZX890",
+            "next_code": "LK567",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group2": {
             "name": "Group 2",
             "next_station": 5,
-            "next_code": "YW123",
+            "next_code": "JH890",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group3": {
             "name": "Group 3",
             "next_station": 5,
-            "next_code": "VU456",
+            "next_code": "GF123",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group4": {
             "name": "Group 4",
             "next_station": 5,
-            "next_code": "TS789",
+            "next_code": "DS456",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group5": {
             "name": "Group 5",
             "next_station": None,
-            "next_code": "IG5FINAL",
+            "next_code": "HEM158F",
             "is_final": True,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group6": {
             "name": "Group 6",
             "next_station": 5,
-            "next_code": "PO345",
+            "next_code": "WE012",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
         "group7": {
             "name": "Group 7",
             "next_station": 5,
-            "next_code": "NM678",
+            "next_code": "RT345",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Is it possible to initiate IG therapy in PID in case if only one change in laboratory parameters detected – low IgG level?",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Yes, if infections are present",
-                        "B) No, because genetic tests are needed for PID diagnosis",
-                        "C) No, because it is necessary to access the response to vaccinations",
-                        "D) Yes, if the patient is interested in treatment",
-                        "E) Yes, if the patient is travelling a lot"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
                     "correct": "A"
                 },
                 {
-                    "question": "Which condition is consuming more IG products for infection prophylaxis?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Diffuse large B-cells lymphoma",
-                        "B) Wilson's disease",
-                        "C) Rheumatic fever",
-                        "D) Measles",
-                        "E) Colorectal cancer"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which group of diseases is frequently treated with rituximab with subsequent hypogammaglobulinemia?",
-                    "options": [
-                        "A) Diabetes and thyroid disease",
-                        "B) Rheumatology",
-                        "C) Stomach diseases",
-                        "D) Chronic renal failure",
-                        "E) Colorectal and liver cancer"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
+                    "options": [
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
+                    ],
+                    "correct": "E"
                 }
             ]
         }
     },
     "access_codes": {
-        "ML789": "group1",
-        "KJ012": "group2",
-        "IH345": "group3",
-        "GF678": "group4",
-        "ED901": "group5",
-        "CB234": "group6",
-        "BA567": "group7"
+        "ZC456": "group1",
+        "VB789": "group2",
+        "NM012": "group3",
+        "QW345": "group4",
+        "ER678": "group5",
+        "TY901": "group6",
+        "UI234": "group7"
     }
 }
 
