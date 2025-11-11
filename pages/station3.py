@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "How does Hemlibra (emicizumab) work in hemophilia A patients?",
+                    "question": "After re-weighting in the MAIC analysis, 85% and 92% of patients treated with IVIg 1.0 g/kg or 2.0 g/kg reached confirmed ECI, respectively, compared to:",
                     "options": [
-                        "A) Replaces factor VIII directly",
-                        "B) Mimics the function of activated factor VIII by bridging activated factor IX and factor X",
-                        "C) Stimulates the production of endogenous factor VIII",
-                        "D) Inhibits fibrinolysis",
-                        "E) Activates thrombin through a pathway independent of FVIII cascade"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which one of the following statements is True regarding standard coagulation assays in patients treated with Hemlibra (emicizumab)?",
-                    "options": [
-                        "A) Hemlibra does not affect any coagulation tests.",
-                        "B) Hemlibra affects only Factor VIII activity tests, not inhibitor tests.",
-                        "C) Hemlibra affects only inhibitor tests, not Factor VIII activity tests.",
-                        "D) Hemlibra affects both Factor VIII activity and inhibitor tests",
-                        "E) Hemlibra causes low Factor VIII activity results in all tests."
+                        "A) 97% of patients treated with SC efgartigimod PH20",
+                        "B) 87% of patients treated with SC efgartigimod PH20",
+                        "C) 77% of patients treated with SC efgartigimod PH20",
+                        "D) 67% of patients treated with SC efgartigimod PH20",
+                        "E) 62% of patients treated with SC efgartigimod PH20"
                     ],
                     "correct": "D"
                 },
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients without inhibitors on Hemlibra, the recommended treatment is:",
+                    "question": "The Panzyga cost calculator showed that, in CIDP, Panzyga had:",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Recombinant activated factor VII (rFVIIa) NovoSeven",
-                        "C) Activated prothrombin complex concentrate aPCC (FEIBA®)",
-                        "D) Aspirin",
-                        "E) Desmopressin (DDAVP)"
+                        "A) Higher cost and higher efficacy than Vyvgart Hytrulo",
+                        "B) Lower cost and similar response rate than Vyvgart Hytrulo",
+                        "C) Lower cost and higher efficacy than Vyvgart Hytrulo",
+                        "D) Comparable cost per responder with Vyvgart Hytrulo",
+                        "E) Higher cost and lower efficacy than Vyvgart Hytrulo"
                     ],
-                    "correct": "A"
+                    "correct": "C"
+                },
+                {
+                    "question": "Which statement best defines Secondary Immunodeficiency (SID)?",
+                    "options": [
+                        "A) A condition caused by inherited defects in immune cell development",
+                        "B) An immune dysfunction resulting from congenital absence of immunoglobulin genes",
+                        "C) A temporary immune suppression following vaccination",
+                        "D) A genetic failure in antibody synthesis",
+                        "E) An acquired impairment of the immune system due to external factors such as disease or therapy"
+                    ],
+                    "correct": "E"
                 }
             ]
         }

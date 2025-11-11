@@ -26,35 +26,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -67,35 +67,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -108,35 +108,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -149,35 +149,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -190,35 +190,35 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -231,35 +231,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }
@@ -272,35 +272,35 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "For breakthrough bleeding in Hemophilia A patients with inhibitors on Hemlibra, the recommended first-line treatment is:",
+                    "question": "What are the key strategic pillars for Immunotherapy in 2026?",
                     "options": [
-                        "A) Standard factor VIII concentrate",
-                        "B) Activated prothrombin complex concentrate (aPCC – FEIBA®)",
-                        "C) Recombinant activated factor VII (rFVIIa – NovoSeven)",
-                        "D) Cryoprecipitate",
-                        "E) Fresh frozen plasma (FFP)"
+                        "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
+                        "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "D) Expand our PID portfolio & market development",
+                        "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
-                    "correct": "C"
+                    "correct": "A"
                 },
                 {
-                    "question": "Which of these characteristics is most important for making Nuwiq® suitable for personalized prophylaxis in hemophilia A?",
+                    "question": "After re-weighting in the MAIC analysis comparing Panzyga and SC efgartigimod PH20, what proportion of Panzyga-treated patients relapsed within 20 weeks after achieving evidence of clinical improvement (ECI)?",
                     "options": [
-                        "A) Good recovery after infusion",
-                        "B) Stable and predictable clearance",
-                        "C) Low variability between patients",
-                        "D) It contains von Willebrand factor",
-                        "E) It is administered subcutaneously"
+                        "A) ~50%",
+                        "B) 0%",
+                        "C) ~25%",
+                        "D) ~10%",
+                        "E) 5%"
                     ],
                     "correct": "B"
                 },
                 {
-                    "question": "In the NuProtect study, what was the cumulative incidence of high-titer inhibitors in previously untreated patients (PUPs) treated with Nuwiq®?",
+                    "question": "What key unmet need is identified in autoimmune/rheumatologic diseases treated with B-cell depleting agents?",
                     "options": [
-                        "A) 43.2%",
-                        "B) 30.7%",
-                        "C) 5%",
-                        "D) 60%",
-                        "E) 17.6%"
+                        "A) Limited access to IVIg",
+                        "B) Excessive response variability",
+                        "C) Poor treatment adherence",
+                        "D) Lack of efficacy data for anti-CD38",
+                        "E) No approved primary prophylaxis with immunoglobulins"
                     ],
                     "correct": "E"
                 }

@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In previously untreated patients with severe hemophilia A, how does on-demand treatment compare to prophylaxis in terms of inhibitor development risk?",
+                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) It increases the risk due to sudden high-dose exposures",
-                        "B) It has no impact — only genetics determine inhibitor risk",
-                        "C) It lowers the risk compared to prophylaxis",
-                        "D) Inhibitor development is entirely unpredictable",
-                        "E) It increases the risk only if plasma-derived products are used"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "Which treatment is usually used to get rid of inhibitors in hereditary hemophilia A but NOT in acquired hemophilia A?",
-                    "options": [
-                        "A) Immunosuppressive therapy",
-                        "B) Bypassing agents",
-                        "C) Plasma exchange",
-                        "D) Factor VIII replacement therapy",
-                        "E) Immune Tolerance Induction (ITI)"
+                        "A) 2–3 times",
+                        "B) 5–10 times",
+                        "C) 10–15 times",
+                        "D) 15–25 times",
+                        "E) 20–30 times"
                     ],
                     "correct": "E"
                 },
                 {
-                    "question": "In hemophilia A patients undergoing immune tolerance induction (ITI) therapy, which factor most influences the success rate of ITI?",
+                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
                     "options": [
-                        "A) Patient's blood type",
-                        "B) Baseline factor VIII activity level",
-                        "C) Peak inhibitor titer before starting ITI",
-                        "D) Age at diagnosis",
-                        "E) Type of factor VIII product used"
+                        "A) 5.5 mL/kg/h",
+                        "B) 6.0 mL/kg/h",
+                        "C) 7.2 mL/kg/h",
+                        "D) 8.0 mL/kg/h",
+                        "E) 6.8 mL/kg/h"
                     ],
                     "correct": "C"
+                },
+                {
+                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "options": [
+                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
+                        "B) Severe bone pain and frequent fractures",
+                        "C) Fever, night sweats, and weight loss in all cases",
+                        "D) Acute respiratory distress and hemoptysis",
+                        "E) Gastrointestinal symptoms and back pain"
+                    ],
+                    "correct": "A"
                 }
             ]
         }

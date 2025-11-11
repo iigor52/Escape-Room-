@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Knowing the type of F8 mutation (None or non-None) in a patient with hemophilia A provides useful information for several aspects of disease management. What is its most important clinical use?",
+                    "question": "What is the key Brand Image for Octagam?",
                     "options": [
-                        "A) Confirm the hemophilia A diagnosis",
-                        "B) Predict inhibitor formation risk",
-                        "C) Determine the severity of bleeding symptoms",
-                        "D) Guide treatment strategy",
-                        "E) Guide decisions on immune tolerance induction (ITI) success"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "Which Bethesda unit (BU) value is typically associated with high-titer inhibitors in hemophilia A?",
-                    "options": [
-                        "A) 0.5 BU",
-                        "B) 10 BU",
-                        "C) 5 BU",
-                        "D) 20 BU",
-                        "E) 30 BU"
+                        "A) Elderly couple walking in the park",
+                        "B) Mother with daughter",
+                        "C) Woman with umbrella",
+                        "D) Backpacker walking in the hills",
+                        "E) Superhero kid with parents"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Among PUPs with severe hemophilia A who develop inhibitors, what percentage are high-titer inhibitors?",
+                    "question": "What is the primary objective of the ProSID study?",
                     "options": [
-                        "A) Approximately 10%",
-                        "B) Approximately 20%",
-                        "C) Approximately 30%",
-                        "D) Approximately 70%",
-                        "E) Approximately 50%"
+                        "A) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with MM",
+                        "B) Evaluating efficacy and safety of IVIG 10% in patients with autoimmune neuropathy",
+                        "C) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with non-Hodgkin lymphoma",
+                        "D) Evaluating efficacy and safety of IVIG 10% in patients with acute lymphocytic leukemia",
+                        "E) Evaluating efficacy and safety of IVIG 10% in primary infection prophylaxis in patients with CLL"
                     ],
-                    "correct": "D"
+                    "correct": "E"
+                },
+                {
+                    "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
+                    "options": [
+                        "A) 0.2–1.0 g/kg",
+                        "B) 0.5–2.0 g/kg",
+                        "C) 1.0–3.0 g/kg",
+                        "D) 0.8–2.5 g/kg",
+                        "E) 1.0–2.0 g/kg"
+                    ],
+                    "correct": "B"
                 }
             ]
         }

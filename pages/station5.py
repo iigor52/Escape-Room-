@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "In the NuProtect study, what was the inhibitor development rate in PUPs with non-None mutations treated with Nuwiq®?",
+                    "question": "Where was the IPIC 2025 Congress held?",
                     "options": [
-                        "A) No inhibitors were observed",
-                        "B) Higher than plasma-derived FVIII/VWF products in the SIPPET study",
-                        "C) Lower compared to plasma-derived FVIII/VWF products in the SIPPET study",
-                        "D) Higher than recombinant FVIII from hamster cell lines in the SIPPET study",
-                        "E) Higher than in patients with None mutations"
-                    ],
-                    "correct": "A"
-                },
-                {
-                    "question": "A patient with moderate Hemophilia B is scheduled for dental extraction. He has no history of inhibitors. Which of the following is the best prophylactic approach to minimize bleeding risk?",
-                    "options": [
-                        "A) No treatment needed since it is mild hemophilia and the procedure is minor",
-                        "B) Administer desmopressin before the procedure",
-                        "C) Use recombinant activated Factor VII (rFVIIa) prophylactically",
-                        "D) Administer Factor IX concentrate before and after the procedure",
-                        "E) Administer tranexamic acid alone without factor replacement"
-                    ],
-                    "correct": "D"
-                },
-                {
-                    "question": "Which of the following is the main limitation of standard recombinant factor IX concentrates compared to plasma-derived factor IX products in Hemophilia B treatment?",
-                    "options": [
-                        "A) High risk of inhibitor development",
-                        "B) Lower in vivo recovery requiring larger or more frequent dosing",
-                        "C) Poor viral inactivation in manufacturing",
-                        "D) Ineffectiveness in severe bleeding episodes",
-                        "E) Short shelf life"
+                        "A) Stockholm, Sweden",
+                        "B) Prague, Czech Republic",
+                        "C) Lisbon, Portugal",
+                        "D) Vienna, Austria",
+                        "E) Helsinki, Finland"
                     ],
                     "correct": "B"
+                },
+                {
+                    "question": "The NGAM-16 (ProTECT) study investigates Panzyga in patients with:",
+                    "options": [
+                        "A) Primary immunodeficiency",
+                        "B) Autoimmune and rheumatic conditions with hypogammaglobulinemia after B-cell depletion",
+                        "C) Hematologic malignancies post-transplant",
+                        "D) PANS/PANDAS",
+                        "E) Inclusion body myositis"
+                    ],
+                    "correct": "B"
+                },
+                {
+                    "question": "What was the topic of the Octapharma-sponsored symposium at the IPIC 2025 meeting?",
+                    "options": [
+                        "A) Is Immunodeficiency a topic only for Immunologists? Fostering collaboration between specialties",
+                        "B) Is there more to CIDP treatment? A closer look at immunomodulation and dosing strategies",
+                        "C) Infection risk in focus: how do hematologic malignancies and treatments increase infection susceptibility?",
+                        "D) Future of Ig therapy: personalized approaches in immunology",
+                        "E) Managing infections arising from hematologic malignancies and their treatments"
+                    ],
+                    "correct": "A"
                 }
             ]
         }

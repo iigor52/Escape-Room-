@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "Which of the following complications is more common in Hemophilia B compared to Hemophilia A?",
+                    "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) Development of inhibitors",
-                        "B) Allergic reactions including anaphylaxis during factor replacement",
-                        "C) Joint arthropathy",
-                        "D) Intracranial hemorrhage",
-                        "E) Thrombotic events during prophylaxis"
-                    ],
-                    "correct": "B"
-                },
-                {
-                    "question": "During pregnancy, levels of von Willebrand factor (VWF) and factor VIII:",
-                    "options": [
-                        "A) Decrease progressively",
-                        "B) Remain unchanged",
-                        "C) Increase significantly, especially in the third trimester",
-                        "D) Decrease only in the first trimester",
-                        "E) Fluctuate unpredictably"
+                        "A) 30–50%",
+                        "B) 40–60%",
+                        "C) 60–90%",
+                        "D) 90–100%",
+                        "E) 20–40%"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "What is a major risk concerning von Willebrand factor (VWF) levels after delivery?",
+                    "question": "Which congress is being held in Vienna next week?",
                     "options": [
-                        "A) Rapid drop in VWF and factor VIII causing delayed postpartum hemorrhage",
-                        "B) Sustained elevated VWF leading to thrombosis",
-                        "C) No significant change postpartum",
-                        "D) Development of inhibitors",
-                        "E) Conversion into inactive form"
+                        "A) GCOM",
+                        "B) ESID–EHA–SIOPE",
+                        "C) ESID",
+                        "D) ACR",
+                        "E) EAN"
                     ],
-                    "correct": "A"
+                    "correct": "B"
+                },
+                {
+                    "question": "According to EMA guidelines, IgRT should be initiated in SID patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment, and either proven specific antibody failure (PSAF) or serum IgG levels below:",
+                    "options": [
+                        "A) 6 g/L",
+                        "B) 5 g/L",
+                        "C) 7 g/L",
+                        "D) 3 g/L",
+                        "E) 4 g/L"
+                    ],
+                    "correct": "E"
                 }
             ]
         }

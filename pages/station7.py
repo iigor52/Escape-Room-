@@ -26,37 +26,37 @@ STATION_DATA = {
             "is_final": True,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -67,37 +67,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -108,37 +108,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -149,37 +149,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -190,37 +190,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -231,37 +231,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         },
@@ -272,37 +272,37 @@ STATION_DATA = {
             "is_final": False,
             "questions": [
                 {
-                    "question": "Why is preserving the multimer distribution of von Willebrand factor (VWF) in Wilate® important?",
+                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
                     "options": [
-                        "A) Helps VWF maintain plasma half-life",
-                        "B) Abnormal distribution compromises FVIII stabilization",
-                        "C) Large multimers ensure platelet adhesion and effective clot formation in surgery, childbirth, trauma",
-                        "D) Influences inhibitor risk",
-                        "E) Prevents need for immunosuppression"
+                        "A) SCIG is preferred over IVIG in acute infection settings",
+                        "B) SCIG is rarely used due to higher systemic side effects",
+                        "C) SCIG is contraindicated in patients with MM",
+                        "D) SCIG allows more stable IgG trough levels and home administration",
+                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                    ],
+                    "correct": "D"
+                },
+                {
+                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
+                    "options": [
+                        "A) FcRn inhibitors",
+                        "B) Complement inhibitors",
+                        "C) Bi-specific T-cell engagers (BiTEs)",
+                        "D) Gene therapy",
+                        "E) RNA interference therapies"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Qfitlia (fitusiran) is a new non-factor therapy used to treat hemophilia A or B. It works by silencing the production of antithrombin in the liver, which increases thrombin generation. What is a known disadvantage or risk associated with fitusiran therapy in patients with hemophilia?",
+                    "question": "What’s the best drink after a busy day?",
                     "options": [
-                        "A) Liver toxicity",
-                        "B) Increased risk of thrombotic events due to excessive thrombin generation",
-                        "C) High risk of inhibitor formation",
-                        "D) Limited efficacy in factor V deficiency",
-                        "E) Ineffective in liver dysfunction"
+                        "A) Coca Cola",
+                        "B) Water",
+                        "C) Prosecco",
+                        "D) Beer",
+                        "E) Orange juice"
                     ],
                     "correct": "B"
-                },
-                {
-                    "question": "Which of the following are potential concerns related to PEGylation of extended half-life (EHL) clotting factor products?",
-                    "options": [
-                        "A) Development of anti-PEG antibodies",
-                        "B) Risk of hypersensitivity/allergic reactions",
-                        "C) Interference with laboratory assays",
-                        "D) Risk of PEG accumulation in tissues",
-                        "E) All of the above"
-                    ],
-                    "correct": "E"
                 }
             ]
         }
