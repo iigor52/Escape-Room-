@@ -17,7 +17,7 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 6,
-    "station_name": "Hemophilia Escape Room - Station 6",
+    "station_name": "Escaping from the immunotherapy challenges - Station 6",
     "groups": {
         "group1": {
             "name": "Group 1",
@@ -28,11 +28,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -40,7 +40,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -69,11 +69,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -81,7 +81,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -110,11 +110,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -122,7 +122,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -151,11 +151,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -163,7 +163,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -192,11 +192,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -204,7 +204,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -233,11 +233,11 @@ STATION_DATA = {
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -245,7 +245,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"
@@ -268,17 +268,17 @@ STATION_DATA = {
         "group7": {
             "name": "Group 7",
             "next_station": None,
-            "next_code": "HEM276F",
+            "next_code": "IBTIMM78",
             "is_final": True,
             "questions": [
                 {
                     "question": "What percentage of patients with CLL are estimated to develop hypogammaglobulinemia during the course of their disease?",
                     "options": [
-                        "A) 30–50%",
-                        "B) 40–60%",
-                        "C) 60–90%",
-                        "D) 90–100%",
-                        "E) 20–40%"
+                        "A) 30\u201350%",
+                        "B) 40\u201360%",
+                        "C) 60\u201390%",
+                        "D) 90\u2013100%",
+                        "E) 20\u201340%"
                     ],
                     "correct": "C"
                 },
@@ -286,7 +286,7 @@ STATION_DATA = {
                     "question": "Which congress is being held in Vienna next week?",
                     "options": [
                         "A) GCOM",
-                        "B) ESID–EHA–SIOPE",
+                        "B) ESID\u2013EHA\u2013SIOPE",
                         "C) ESID",
                         "D) ACR",
                         "E) EAN"

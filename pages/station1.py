@@ -17,7 +17,7 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 1,
-    "station_name": "Hemophilia Escape Room - Station 1",
+    "station_name": "Escaping from the immunotherapy challenges - Station 1",
     "groups": {
         "group1": {
             "name": "Group 1",
@@ -50,11 +50,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -63,7 +63,7 @@ STATION_DATA = {
         "group2": {
             "name": "Group 2",
             "next_station": None,
-            "next_code": "HEM751F",
+            "next_code": "IBTIMM23",
             "is_final": True,
             "questions": [
                 {
@@ -91,11 +91,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -132,11 +132,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -173,11 +173,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -214,11 +214,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -255,11 +255,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }
@@ -296,11 +296,11 @@ STATION_DATA = {
                 {
                     "question": "In the ProCID trial, what was the range of maintenance doses evaluated for Panzyga in CIDP?",
                     "options": [
-                        "A) 0.2–1.0 g/kg",
-                        "B) 0.5–2.0 g/kg",
-                        "C) 1.0–3.0 g/kg",
-                        "D) 0.8–2.5 g/kg",
-                        "E) 1.0–2.0 g/kg"
+                        "A) 0.2\u20131.0 g/kg",
+                        "B) 0.5\u20132.0 g/kg",
+                        "C) 1.0\u20133.0 g/kg",
+                        "D) 0.8\u20132.5 g/kg",
+                        "E) 1.0\u20132.0 g/kg"
                     ],
                     "correct": "B"
                 }

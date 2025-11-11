@@ -17,7 +17,7 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 2,
-    "station_name": "Hemophilia Escape Room - Station 2",
+    "station_name": "Escaping from the immunotherapy challenges - Station 2",
     "groups": {
         "group1": {
             "name": "Group 1",
@@ -28,11 +28,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -69,11 +69,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -104,17 +104,17 @@ STATION_DATA = {
         "group3": {
             "name": "Group 3",
             "next_station": None,
-            "next_code": "HEM329F",
+            "next_code": "IBTIMM34",
             "is_final": True,
             "questions": [
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -151,11 +151,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -192,11 +192,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -233,11 +233,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },
@@ -274,11 +274,11 @@ STATION_DATA = {
                 {
                     "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) 2\u20133 times",
+                        "B) 5\u201310 times",
+                        "C) 10\u201315 times",
+                        "D) 15\u201325 times",
+                        "E) 20\u201330 times"
                     ],
                     "correct": "E"
                 },

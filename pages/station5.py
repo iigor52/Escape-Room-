@@ -17,7 +17,7 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 5,
-    "station_name": "Hemophilia Escape Room - Station 5",
+    "station_name": "Escaping from the immunotherapy challenges - Station 5",
     "groups": {
         "group1": {
             "name": "Group 1",
@@ -227,7 +227,7 @@ STATION_DATA = {
         "group6": {
             "name": "Group 6",
             "next_station": None,
-            "next_code": "HEM903F",
+            "next_code": "IBTIMM67",
             "is_final": True,
             "questions": [
                 {

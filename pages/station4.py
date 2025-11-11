@@ -17,7 +17,7 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 4,
-    "station_name": "Hemophilia Escape Room - Station 4",
+    "station_name": "Escaping from the immunotherapy challenges - Station 4",
     "groups": {
         "group1": {
             "name": "Group 1",
@@ -30,7 +30,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -71,7 +71,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -112,7 +112,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -153,7 +153,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -186,7 +186,7 @@ STATION_DATA = {
         "group5": {
             "name": "Group 5",
             "next_station": None,
-            "next_code": "HEM158F",
+            "next_code": "IBTIMM56",
             "is_final": True,
             "questions": [
                 {
@@ -194,7 +194,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -235,7 +235,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],
@@ -276,7 +276,7 @@ STATION_DATA = {
                     "options": [
                         "A) Become No. 1 player in SID field & strengthen position in autoimmune disease",
                         "B) Advance autoimmune portfolio through novel and niche indications & enhance customer communication",
-                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn’s",
+                        "C) Expand our SCIG market shares & defend and reinforce market share against FcRn\u2019s",
                         "D) Expand our PID portfolio & market development",
                         "E) Strengthen logistics capabilities & focus on rare indications"
                     ],

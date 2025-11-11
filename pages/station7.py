@@ -17,12 +17,12 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 7,
-    "station_name": "Hemophilia Escape Room - Station 7",
+    "station_name": "Escaping from the immunotherapy challenges - Station 7",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": None,
-            "next_code": "HEM480F",
+            "next_code": "IBTIMM12",
             "is_final": True,
             "questions": [
                 {
@@ -48,7 +48,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -89,7 +89,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -130,7 +130,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -171,7 +171,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -212,7 +212,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -253,7 +253,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
@@ -294,7 +294,7 @@ STATION_DATA = {
                     "correct": "C"
                 },
                 {
-                    "question": "What’s the best drink after a busy day?",
+                    "question": "What\u2019s the best drink after a busy day?",
                     "options": [
                         "A) Coca Cola",
                         "B) Water",
