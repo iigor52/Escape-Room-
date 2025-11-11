@@ -620,9 +620,9 @@ def main():
         # Verification
         st.markdown("### 🎯 Verification and moving to next station")
 
-        col1, col2, col3 = st.columns([2, 1, 1])
+col1, col2, col3 = st.columns([2, 1, 1])
 
-        with col1:
+with col1:
     if penalty_active:
         # NE brišemo više – samo pokažemo zadnji pokušaj zaključan
         input_value = st.session_state.get("last_code_attempt", "")
@@ -643,9 +643,8 @@ def main():
             key="code_input"
         )
 
-
-        with col2:
-            # FIXED TIMER - show countdown directly in this column
+with col2:
+    # FIXED TIMER - show countdown directly in this column
             if penalty_active:
                 st.markdown(f'<div class="timer-display">⛔ {penalty_remaining}s</div>', unsafe_allow_html=True)
                 progress = 1 - (penalty_remaining / 60) if penalty_remaining <= 60 else 0
