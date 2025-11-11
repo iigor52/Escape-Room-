@@ -17,304 +17,304 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 2,
-    "station_name": "Hemophilia Escape Room - Station 2",
+    "station_name": "Immunoglobulin Escape Room - Station 2",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": 3,
-            "next_code": "WQ345",
+            "next_code": "ZY678",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group2": {
             "name": "Group 2",
             "next_station": 3,
-            "next_code": "ER678",
+            "next_code": "XW901",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group3": {
             "name": "Group 3",
             "next_station": None,
-            "next_code": "HEM329F",
+            "next_code": "IG3FINAL",
             "is_final": True,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group4": {
             "name": "Group 4",
             "next_station": 3,
-            "next_code": "UI234",
+            "next_code": "TS567",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group5": {
             "name": "Group 5",
             "next_station": 3,
-            "next_code": "OP567",
+            "next_code": "RQ890",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group6": {
             "name": "Group 6",
             "next_station": 3,
-            "next_code": "AS890",
+            "next_code": "PO123",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         },
         "group7": {
             "name": "Group 7",
             "next_station": 3,
-            "next_code": "FG123",
+            "next_code": "NM456",
             "is_final": False,
             "questions": [
                 {
-                    "question": "How much more common is Secondary Immunodeficiency (SID) estimated to be compared to Primary Immunodeficiency (PID)?",
+                    "question": "Is primary IG prophylaxis (before any infection if IgG level is low) recommended in haematological malignancies by existing guidelines?",
                     "options": [
-                        "A) 2–3 times",
-                        "B) 5–10 times",
-                        "C) 10–15 times",
-                        "D) 15–25 times",
-                        "E) 20–30 times"
+                        "A) Yes, in specific cases like CAR-T therapy in children",
+                        "B) No",
+                        "C) Yes, in Canada only",
+                        "D) Yes, but only for SCIG",
+                        "E) Yes, but only for IVIG"
                     ],
-                    "correct": "E"
+                    "correct": "A"
                 },
                 {
-                    "question": "The maximum infusion rate included in the EU SmPC for Panzyga in CIDP patients who tolerate 4.8 mL/kg/h well is:",
+                    "question": "Are there medical reasons to consider SCIG except of patient preferences?",
                     "options": [
-                        "A) 5.5 mL/kg/h",
-                        "B) 6.0 mL/kg/h",
-                        "C) 7.2 mL/kg/h",
-                        "D) 8.0 mL/kg/h",
-                        "E) 6.8 mL/kg/h"
+                        "A) Yes, about 10-fold smaller frequency of systemic adverse reactions compare to IVIG",
+                        "B) Yes, number of specific conditions such as hyperviscosity syndromes",
+                        "C) All the above",
+                        "D) None of the above",
+                        "E) Answer A only"
                     ],
                     "correct": "C"
                 },
                 {
-                    "question": "Which of the following is a common symptom profile in patients with CLL at diagnosis?",
+                    "question": "Which situation is a critical limitation for SCIG usage?",
                     "options": [
-                        "A) Asymptomatic or unspecific symptoms, often diagnosed incidentally",
-                        "B) Severe bone pain and frequent fractures",
-                        "C) Fever, night sweats, and weight loss in all cases",
-                        "D) Acute respiratory distress and hemoptysis",
-                        "E) Gastrointestinal symptoms and back pain"
+                        "A) High volume of subcutaneous fat",
+                        "B) Low volume of subcutaneous fat",
+                        "C) Thrombocytopenia",
+                        "D) Anemia",
+                        "E) Severe cognitive impairment without help from caregivers"
                     ],
-                    "correct": "A"
+                    "correct": "E"
                 }
             ]
         }
     },
     "access_codes": {
-        "TR234": "group1",
-        "DF567": "group2",
-        "GH890": "group3",
-        "JK123": "group4",
-        "CV456": "group5",
-        "BN789": "group6",
-        "XZ012": "group7"
+        "LC567": "group1",
+        "KJ890": "group2",
+        "IH123": "group3",
+        "GF456": "group4",
+        "ED789": "group5",
+        "CB012": "group6",
+        "BA345": "group7"
     }
 }
 

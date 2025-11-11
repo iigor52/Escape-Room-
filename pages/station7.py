@@ -17,304 +17,304 @@ os.environ["STREAMLIT_SERVER_PORT"] = str(find_free_port())
 
 STATION_DATA = {
     "station_number": 7,
-    "station_name": "Hemophilia Escape Room - Station 7",
+    "station_name": "Immunoglobulin Escape Room - Station 7",
     "groups": {
         "group1": {
             "name": "Group 1",
             "next_station": None,
-            "next_code": "HEM480F",
+            "next_code": "IG1FINAL",
             "is_final": True,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group2": {
             "name": "Group 2",
             "next_station": 1,
-            "next_code": "VB456",
+            "next_code": "YW789",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group3": {
             "name": "Group 3",
             "next_station": 1,
-            "next_code": "QR789",
+            "next_code": "VU012",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group4": {
             "name": "Group 4",
             "next_station": 1,
-            "next_code": "ZX012",
+            "next_code": "TS345",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group5": {
             "name": "Group 5",
             "next_station": 1,
-            "next_code": "MN345",
+            "next_code": "RQ678",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group6": {
             "name": "Group 6",
             "next_station": 1,
-            "next_code": "KL678",
+            "next_code": "PO901",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         },
         "group7": {
             "name": "Group 7",
             "next_station": 1,
-            "next_code": "PW901",
+            "next_code": "NM234",
             "is_final": False,
             "questions": [
                 {
-                    "question": "Which of the following statements about SCIG is TRUE in the context of SID management?",
+                    "question": "What is the practical consequence of using maltose containing immunoglobulin?",
                     "options": [
-                        "A) SCIG is preferred over IVIG in acute infection settings",
-                        "B) SCIG is rarely used due to higher systemic side effects",
-                        "C) SCIG is contraindicated in patients with MM",
-                        "D) SCIG allows more stable IgG trough levels and home administration",
-                        "E) SCIG has a higher rate of anaphylactic reactions than IVIG"
+                        "A) Need to monitor renal function closely",
+                        "B) Need to infuse immunoglobulin at relatively low speed",
+                        "C) Need to infuse immunoglobulin in lower dosages but with higher frequency",
+                        "D) Need to use specific infusion sets",
+                        "E) Need to use appropriate tests for diabetes monitoring"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "Which treatment (immunoglobulins or Vyvgart) shows a higher risk of infections?",
+                    "options": [
+                        "A) Immunoglobulins, but only non-severe infections",
+                        "B) Vyvgart, but only non-severe infections",
+                        "C) The risk is equal",
+                        "D) Immunoglobulins, including severe infections and infections requiring hospitalizations",
+                        "E) Vyvgart, including severe infections and infections requiring hospitalizations"
+                    ],
+                    "correct": "E"
+                },
+                {
+                    "question": "What is the difference in estimated cost of CIDP treatment for US healthcare system?",
+                    "options": [
+                        "A) Cost of treatment with Vyvgart and Panzyga is similar",
+                        "B) Cost of treatment with Panzyga is non-significantly higher",
+                        "C) Cost of treatment with Vyvgart is 1.5-fold higher",
+                        "D) Cost of treatment with Vyvgart is more than 3-fold higher",
+                        "E) Cost of treatment with Vyvgart is more than 5-fold higher"
                     ],
                     "correct": "D"
-                },
-                {
-                    "question": "Which class of new treatment options is an opportunity for IVIG/SCIG as they may induce infections due to immune modulation?",
-                    "options": [
-                        "A) FcRn inhibitors",
-                        "B) Complement inhibitors",
-                        "C) Bi-specific T-cell engagers (BiTEs)",
-                        "D) Gene therapy",
-                        "E) RNA interference therapies"
-                    ],
-                    "correct": "C"
-                },
-                {
-                    "question": "What’s the best drink after a busy day?",
-                    "options": [
-                        "A) Coca Cola",
-                        "B) Water",
-                        "C) Prosecco",
-                        "D) Beer",
-                        "E) Orange juice"
-                    ],
-                    "correct": "B"
                 }
             ]
         }
     },
     "access_codes": {
-        "QW789": "group1",
-        "ER012": "group2",
-        "TY345": "group3",
-        "UI678": "group4",
-        "OP901": "group5",
-        "AS234": "group6",
-        "DF567": "group7"
+        "XW012": "group1",
+        "VU345": "group2",
+        "TS678": "group3",
+        "RQ901": "group4",
+        "PO234": "group5",
+        "NM567": "group6",
+        "LK890": "group7"
     }
 }
 
