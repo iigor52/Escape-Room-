@@ -623,29 +623,26 @@ def main():
         col1, col2, col3 = st.columns([2, 1, 1])
 
         with col1:
-            # Reset input value when a new penalty starts
-            input_value = ""
-            if penalty_active:
-                if st.session_state.penalty_triggered:
-                    st.session_state.penalty_triggered = False
-                    input_value = ""
-                else:
-                    input_value = st.session_state.last_code_attempt
+    if penalty_active:
+        # NE brišemo više – samo pokažemo zadnji pokušaj zaključan
+        input_value = st.session_state.get("last_code_attempt", "")
+        verification_code = st.text_input(
+            "🔑 Code:",
+            value=input_value,
+            disabled=True,
+            key="code_input",
+            help="🚫 Blocked due to penalty"
+        )
+        # trigger više ne mora ništa raditi
+        st.session_state.penalty_triggered = False
+    else:
+        verification_code = st.text_input(
+            "🔑 Enter code:",
+            placeholder="Three letters (e.g. ABC)",
+            max_chars=3,
+            key="code_input"
+        )
 
-                verification_code = st.text_input(
-                    "🔑 Code:",
-                    disabled=True,
-                    value=input_value,
-                    key="code_input",
-                    help="🚫 Blocked due to penalty"
-                )
-            else:
-                verification_code = st.text_input(
-                    "🔑 Enter code:",
-                    placeholder="Three letters (e.g. ABC)",
-                    max_chars=3,
-                    key="code_input"
-                )
 
         with col2:
             # FIXED TIMER - show countdown directly in this column
